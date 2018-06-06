@@ -1,0 +1,19 @@
+c:\users\hardi\documents\visual studio 2010\Projects\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.Billing.resources
+c:\users\hardi\documents\visual studio 2010\Projects\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.Form1.resources
+c:\users\hardi\documents\visual studio 2010\Projects\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.Form2.resources
+c:\users\hardi\documents\visual studio 2010\Projects\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.Properties.Resources.resources
+c:\users\hardi\documents\visual studio 2010\Projects\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.csproj.GenerateResource.Cache
+c:\users\hardi\documents\visual studio 2010\Projects\PaketBilling\PaketBilling\bin\Debug\PaketBilling.exe
+c:\users\hardi\documents\visual studio 2010\Projects\PaketBilling\PaketBilling\bin\Debug\PaketBilling.pdb
+c:\users\hardi\documents\visual studio 2010\Projects\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.exe
+c:\users\hardi\documents\visual studio 2010\Projects\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.pdb
+C:\Users\Hardi\documents\visual studio 2010\Projects\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS7\Music\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.exe
+C:\Users\WINDOWS7\Music\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.pdb
+C:\Users\WINDOWS7\Music\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS7\Music\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.Billing.resources
+C:\Users\WINDOWS7\Music\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.Form1.resources
+C:\Users\WINDOWS7\Music\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.Form2.resources
+C:\Users\WINDOWS7\Music\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.Properties.Resources.resources
+C:\Users\WINDOWS7\Music\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.csproj.GenerateResource.Cache
+E:\PaketBilling\PaketBilling\obj\x86\Debug\PaketBilling.exe
